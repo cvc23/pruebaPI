@@ -1,5 +1,4 @@
-Para poder ejecutar el proyecto, en necesario contar con mysql, habilitar el modulo de php con mysql y 
-    montar el proyecto en un seridor, puede ser localhost, No se tienen todos los estados en la bd ya que solo se utilizaron 5 para realizar pruebas.
+Para poder ejecutar el proyecto, en necesario contar con mysql, habilitar el modulo de php con mysql No se tienen todos los estados en la bd ya que solo se utilizaron 5 para realizar pruebas.
     El archivo PDF que se muestra en el sitio también es de pruebas.
     Se utilizó boostrap V3.3, jquery y php V5.2
 
